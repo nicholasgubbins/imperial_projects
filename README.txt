@@ -1,1 +1,1 @@
-For each project the assignment is specified in Specification.txt 
+For each project the assignment is specified in Specification.pdf
